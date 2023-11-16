@@ -1,2 +1,2 @@
-# Compressor-Device-Firmware
-Compressor Device Firmware using STM, C Language and CubeIDE
+# Medical-Compress-Device-Firmware
+Medical Compress Device Firmware using STM, C Language and CubeIDE
